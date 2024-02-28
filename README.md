@@ -142,5 +142,3 @@ li {
 - The frontend displays tasks retrieved from the database in an HTML list.
 - CSS styles are applied to improve the visual presentation of the HTML page.
 - This implementation follows a code-first approach, where the database schema is generated based on the defined models.
-
-Let me know if you need further clarification on any part of the implementation!
